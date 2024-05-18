@@ -64,6 +64,7 @@ $proses->Buttonhapus();
     <div>
       <button name="btn" style="width: 120px;" type="submit" class="btn btn-primary mt-2 ">Tambah</button>
       <?= $button ;?>
+      <?= $print ;?>
     </div>
   </div>
 </form>
